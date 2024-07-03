@@ -1,0 +1,14 @@
+.lorem{
+  text-align: justify;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 15px;
+}
+.web{
+  text-align: center;
+  text-color:rgb(255, 255, 255);
+}
+div{
+  background-color: tomato;
+  padding: 10px;
+  margin: 10px;
+}
